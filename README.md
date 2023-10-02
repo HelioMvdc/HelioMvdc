@@ -8,6 +8,6 @@
 
 🔍 Sou apaixonado por Programação, Compliance e Prevenção a Fraudes. Estou em busca de oportunidades para aplicar meu conhecimento em Economia e minhas habilidades em programação para contribuir para a conformidade e a segurança no setor financeiro.
 
-📫 Você pode entrar em contato comigo através do meu [LinkedIn](www.linkedin.com/in/hmvdc/).
+📫 Você pode entrar em contato comigo através do meu [LinkedIn] (www.linkedin.com/in/hmvdc/).
 
 Vamos conectar e explorar oportunidades de aprendizado e colaboração! 💡
