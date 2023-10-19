@@ -1,8 +1,8 @@
 ### Olá, sou @HelioMvdc! 👋
 
-🌱 Atualmente estou cursando Economia e realizando um estágio no departamento de Compliance da **Órama**, uma corretora de investimentos de destaque.
+🌱 Atualmente estou cursando Economia e realizando um estágio no Compliance da **Órama**, uma corretora de investimentos de destaque.
 
-👨‍💻 Também estou mergulhando na área de programação e análise de dados por meio de cursos na **Alura**, onde estudo **SQL**, **Python para Data Science** e **VBA**.
+👨‍💻 Também estou mergulhando na área de programação e análise de dados por meio de cursos na **Alura**, onde estudo **SQL**, **JaveScript**, **Python para Data Science** e **VBA**.
 
 🌍 Além disso, estou comprometido em aprimorar minhas habilidades linguísticas, estudando **inglês**, uma língua crucial para me comunicar e colaborar globalmente.
 
